@@ -1,0 +1,94 @@
+<style type="text/css">
+    
+    /*  added code by paramita*/
+    #logindiv
+    {
+        
+        margin-top: 5%;
+        margin-left: 30%;
+        margin-right: 30%;; 
+        margin-bottom: 5%;
+        background: linear-gradient(#D8D8D8  , appworkspace, #989898 );
+        box-shadow: 10px 10px 5px #888888;
+        border-radius: 10px;
+        border: 1px solid;
+    }
+    
+    #loginupdiv {
+        margin-top: 5%;
+    }
+    
+    #loginlowdiv {
+        height: 10%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 4%;
+        position: relative;
+    }
+    
+    #logindiv label
+    {
+        margin-left: 20px;
+        color:brown  ;
+        margin-top: 10%;
+        font-weight: bold;
+    }
+
+    .inputbox 
+    {
+        margin-left: 40px;
+        width: 80%;
+        margin-top: 7px;
+        border-radius: 10px;
+        margin-bottom: 4%;
+    }
+
+    #loginbutton {
+        height: 24px;
+        margin-left: 36%;
+        position: static;
+    }
+    
+    .login
+    {
+        margin-left: 141px;
+        width: 30%;
+        margin-bottom: 7%;
+        margin-top: 15px;
+        border-radius: 10px;
+    }
+
+    #logindiv:hover,
+    #logindiv:focus,
+    #logindiv:active {
+        background:#a1d8f0;
+        background:-moz-linear-gradient(top, #7acbed, #badff3);
+        background:-webkit-gradient(linear, left top, left bottom, from(#7acbed), to(#badff3));
+        -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#7acbed', EndColorStr='#badff3')";
+    }
+    #logindiv span{
+    	margin-left: 145px;
+   		width:40%;
+        text-align: center;
+        color:brown;
+    
+    
+    }
+    .button {
+    	color: #900;
+  		background: #6699CC;
+  		font-weight: bold;
+  		border: 1px solid #900;
+        height: 24px;
+        margin-left: 60%;
+        position: static;
+        border-radious:10px;
+    }
+     .button:hover{
+     
+     color: #FFF;
+  	 background: #900;
+     
+     }
+
+</style>

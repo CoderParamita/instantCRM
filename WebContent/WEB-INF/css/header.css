@@ -1,0 +1,26 @@
+<style>
+ #header
+    {
+
+
+        background:#191970;
+        margin-left: 130px;
+        margin-right: 80px; 
+        width:80%;
+        text-align: center;
+        color:#B8860B;
+        height: 60px;
+        
+        
+    }
+    #headertext
+    {
+        color:#B8860B;
+        text-align: center;
+        font-size: 17px;
+        padding-top: 20px;
+       
+    }
+
+
+</style>
